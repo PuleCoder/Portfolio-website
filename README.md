@@ -11,13 +11,12 @@ This portfolio is a reflection of my journey in IT, my skills development, and t
 ## 🚀 Live Site
 
 👉 [https://PuleCoder.github.io/portfolio-website](https://PuleCoder.github.io/portfolio-website)  
-*(Update the link if your repository name is different)*
 
 ## 🛠️ Technologies Used
 
-- HTML5  
-- CSS3  
-- JavaScript  
+*HTML5*
+*CSS3* 
+*JavaScript *
 - Git & GitHub  
 - GitHub Pages for hosting
 
@@ -25,7 +24,7 @@ This portfolio is a reflection of my journey in IT, my skills development, and t
 
 - **Home / About Me**  
 - **Resume / CV**  
-- **Projects** (with GitHub links)  
+- **Projects** (with GitHub links)==
 - **Skills**  
 - **Contact Information**
 
@@ -43,7 +42,7 @@ Feel free to connect or reach out!
 
 - LinkedIn: [linkedin.com/in/pulemofokeng](https://linkedin.com/in/pulemofokeng)  
 - GitHub: [github.com/PuleCoder](https://github.com/PuleCoder)  
-- Email: [your.email@example.com](mailto:puleduma0@gmail.com)
+- Email: [puleduma0@gmail.com](mailto:puleduma0@gmail.com)
 
 ---
 
