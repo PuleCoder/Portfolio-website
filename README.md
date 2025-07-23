@@ -14,9 +14,7 @@ This portfolio is a reflection of my journey in IT, my skills development, and t
 
 ## 🛠️ Technologies Used
 
-*HTML5*
-*CSS3* 
-*JavaScript *
+- Html
 - Git & GitHub  
 - GitHub Pages for hosting
 
@@ -24,7 +22,7 @@ This portfolio is a reflection of my journey in IT, my skills development, and t
 
 - **Home / About Me**  
 - **Resume / CV**  
-- **Projects** (with GitHub links)==
+- **Projects**
 - **Skills**  
 - **Contact Information**
 
