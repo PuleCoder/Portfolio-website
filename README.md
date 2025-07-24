@@ -38,7 +38,7 @@ This portfolio is a reflection of my journey in IT, my skills development, and t
 
 Feel free to connect or reach out!
 
-- LinkedIn: [linkedin.com/in/pulemofokeng](https://linkedin.com/in/pulemofokeng)  
+- LinkedIn: [linkedin.com/in/pulemofokeng](http://www.linkedin.com/in/pule-mofokeng)  
 - GitHub: [github.com/PuleCoder](https://github.com/PuleCoder)  
 - Email: [puleduma0@gmail.com](mailto:puleduma0@gmail.com)
 
