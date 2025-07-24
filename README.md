@@ -5,8 +5,11 @@ This website showcases my academic background, technical skills, and personal pr
 
 ## 📄 About Me
 
-I’m Pule Mofokeng, a Bachelor of Science in Information Technology student with a passion for managing, securing, and optimizing data systems.  
-This portfolio is a reflection of my journey in IT, my skills development, and the projects I've built or contributed to so far.
+I am a motivated IT student with a solid foundation in databases and computer networks.  
+Through academic group projects, I’ve gained practical experience working with relational databases and understanding how network systems function.
+
+I enjoy problem-solving, learning new technologies, and working collaboratively with others.  
+I’m now looking for an opportunity to apply my skills in a real-world environment and continue growing in the IT field, especially in areas like network support and database management.
 
 ## 🚀 Live Site
 
